@@ -2,6 +2,6 @@
 
 To quickly get started running a Confluence instance, use the following command:
 
-`docker run --detach --publish 8888:80 williamguozi/tinyweb:latest`
+`docker run --name tinyweb --detach --publish 8080:8080 williamguozi/tinyweb:new`
 
-browser to `http://[dockerhost]:8090`
+browser to `http://[dockerhost]:8080`
