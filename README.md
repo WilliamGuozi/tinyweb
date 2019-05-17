@@ -1,2 +1,2 @@
 # tinyweb
-demo test dockerfile trigger docker hub
+github dockerfile trigger docker hub
